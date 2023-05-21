@@ -1,0 +1,57 @@
+[0.014s] Invoking command in '/home/uday22/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/uday22/yolobot/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/uday22/yolobot/install/yolobot_recognition
+[0.094s] -- The C compiler identification is GNU 11.3.0
+[0.164s] -- The CXX compiler identification is GNU 11.3.0
+[0.173s] -- Detecting C compiler ABI info
+[0.219s] -- Detecting C compiler ABI info - done
+[0.228s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.228s] -- Detecting C compile features
+[0.229s] -- Detecting C compile features - done
+[0.232s] -- Detecting CXX compiler ABI info
+[0.283s] -- Detecting CXX compiler ABI info - done
+[0.289s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.290s] -- Detecting CXX compile features
+[0.290s] -- Detecting CXX compile features - done
+[0.292s] -- Found ament_cmake: 1.3.3 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.419s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[0.497s] -- Found ament_lint_auto: 0.12.5 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.566s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.567s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.568s] -- Added test 'lint_cmake' to check CMake code style
+[0.568s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.569s] -- Added test 'xmllint' to check XML markup files
+[0.570s] -- Configuring done
+[0.572s] -- Generating done
+[0.573s] -- Build files have been written to: /home/uday22/yolobot/build/yolobot_recognition
+[0.578s] Invoked command in '/home/uday22/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/uday22/yolobot/src/yolobot_recognition -DCMAKE_INSTALL_PREFIX=/home/uday22/yolobot/install/yolobot_recognition
+[0.580s] Invoking command in '/home/uday22/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/uday22/yolobot/build/yolobot_recognition -- -j12 -l12
+[0.604s] Invoked command in '/home/uday22/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/uday22/yolobot/build/yolobot_recognition -- -j12 -l12
+[0.622s] Invoking command in '/home/uday22/yolobot/build/yolobot_recognition': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/uday22/yolobot/build/yolobot_recognition
+[0.629s] -- Install configuration: ""
+[0.629s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts
+[0.630s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitattributes
+[0.631s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_subscriber.py
+[0.631s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8n.pt
+[0.639s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/yolov8_ros2_pt.py
+[0.639s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/.dockerignore
+[0.639s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//scripts/.gitignore
+[0.639s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//launch
+[0.640s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition//launch/launch_yolov8.launch.py
+[0.640s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_pt.py
+[0.640s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/lib/yolobot_recognition/yolov8_ros2_subscriber.py
+[0.641s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/lib/yolobot_recognition/launch_yolov8.launch.py
+[0.641s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/ament_index/resource_index/package_run_dependencies/yolobot_recognition
+[0.641s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/ament_index/resource_index/parent_prefix_path/yolobot_recognition
+[0.641s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.sh
+[0.642s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/ament_prefix_path.dsv
+[0.643s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/path.sh
+[0.643s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/environment/path.dsv
+[0.643s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.bash
+[0.643s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.sh
+[0.643s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.zsh
+[0.643s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/local_setup.dsv
+[0.644s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/package.dsv
+[0.644s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/ament_index/resource_index/packages/yolobot_recognition
+[0.644s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig.cmake
+[0.644s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/cmake/yolobot_recognitionConfig-version.cmake
+[0.644s] -- Installing: /home/uday22/yolobot/install/yolobot_recognition/share/yolobot_recognition/package.xml
+[0.657s] Invoked command in '/home/uday22/yolobot/build/yolobot_recognition' returned '0': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/uday22/yolobot/build/yolobot_recognition

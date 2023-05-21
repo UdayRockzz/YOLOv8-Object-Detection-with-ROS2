@@ -1,0 +1,4 @@
+Invoking command in '/home/uday22/yolobot/build/yolov8_msgs': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /home/uday22/.local/bin/cmake --build /home/uday22/yolobot/build/yolov8_msgs -- -j12 -l12
+Invoked command in '/home/uday22/yolobot/build/yolov8_msgs' returned '0': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /home/uday22/.local/bin/cmake --build /home/uday22/yolobot/build/yolov8_msgs -- -j12 -l12
+Invoking command in '/home/uday22/yolobot/build/yolov8_msgs': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /home/uday22/.local/bin/cmake --install /home/uday22/yolobot/build/yolov8_msgs
+Invoked command in '/home/uday22/yolobot/build/yolov8_msgs' returned '0': CMAKE_PREFIX_PATH=/home/uday22/ros2_ws/install/my_robot_controller:/opt/ros/humble /home/uday22/.local/bin/cmake --install /home/uday22/yolobot/build/yolov8_msgs
